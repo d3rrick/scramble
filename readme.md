@@ -1,11 +1,13 @@
 ##### Cheat playing scramble game
 
+Not exactly cheating but automating the process of getting a combination of possible words. :)
+
 ###### How it works
 provide words that you are supporsed to scramble, the small tool based on recursion algorithim will perform permutations to your words and check if those words exists in the dictionary and display the list of all words.
 
 ###### Customization
 - language options - (en_GB, en_US, de_DE, fr_FR).
-- final words that you need finally - default is 2 but you can increase as you wish
+- minimum length of characters in the final word - default is 2 but you can increase as you wish
 
 ###### Tools
 - python3.8 
