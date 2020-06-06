@@ -30,3 +30,13 @@ provide words that you are supporsed to scramble, the small tool based on recurs
 
 #### Licence
 [MIT](https://mit-license.org/) (c) 2020 [muriithi derrick](https://github.com/derrick-gopher)
+
+so someone beat me hands down this evening playing scramble game, then i decided to create a simple tool to cheat.
+
+ 
+
+check it out - https://github.com/derrick-gopher/scramble
+
+
+
+finally, scramble is a good game to play without cheating. hahahah.
